@@ -1,0 +1,19 @@
+Problem Description
+
+I have developed a simple quiz game with 25 questions in total having 4 options each.
+
+The game consists of 7 user faced activities which are
+1)Launch Screen
+2)Game Menu
+3)Play Now
+4)You Won
+5)High Scores
+6)Settings
+7)About
+
+I was able to add the following features:
+-List View (clickable) in Settings
+-List View(non clickable) in HighScores
+-SQLite Database with add,delete and update functions
+-Async Task for database read and write
+-Share intent in YouWon activity
